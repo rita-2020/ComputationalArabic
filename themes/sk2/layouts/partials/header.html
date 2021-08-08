@@ -1,0 +1,81 @@
+<header class="flex">
+
+<a href="{{relLangURL ""}}"><b>{{site.Title}}</b></a>
+
+
+{{with site.Params.subtitle}}<div class="subtitle">{{.}}</div>{{end}}
+<!--
+{{ if .Site.IsMultiLingual }}
+    <button type="button" class="collapsible">en / ar</button>
+<div class="content">    
+<nav>
+  <ul>
+    {{ range .Site.Languages }}
+    {{ if eq . $.Site.Language }}
+    <li>{{ .LanguageName }}</span>
+      {{ end }}
+      {{ end }}
+        {{ range $.Translations }}
+        <li><a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>     
+        {{ end }}
+    </li>
+  </ul>
+</nav>
+</div>
+{{ end }}    
+-->    
+    
+{{if site.Menus}}
+<!--
+<button type="button" class="collapsible">Menu</button>
+-->
+<nav class="flex-right">
+	{{$currentPage := .}}
+	{{range site.Menus.main}}
+		{{if .HasChildren}}
+		<li class="{{if $currentPage.HasMenuCurrent "main" .}}active{{end}}">
+			<a href="#">
+				{{.Pre}}
+				<span>{{.Name}}</span>
+			</a>
+		</li>
+		<ul>
+			{{range .Children}}
+			<li class="{{if $currentPage.IsMenuCurrent "main" .}}active{{end}}">
+				<a href="{{.URL}}">{{.Name}}</a>
+			</li>
+			{{end}}
+		</ul>
+		{{else}}
+		<li>
+			<a href="{{.URL}}">
+				{{.Pre}}
+				<span>{{.Name}}</span>
+			</a>
+		</li>
+		{{end}}
+	{{end}}
+</nav>
+{{end}}
+  
+
+
+<!--
+<h2 class="visually-hidden">{{ i18n "lang_select_title" }}</h2>
+<nav class="language-selector layout__language-selector">
+<ul class="navbar">
+{{ if .IsTranslated -}}
+{{ range .Translations }}
+<li><a rel="alternate" href="{{ .RelPermalink }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}">{{ .Language.LanguageName }}</a></li>
+{{ end -}}
+{{ else -}}
+{{ range .Site.Languages -}}
+{{ if ne $.Site.Language.Lang .Lang }}
+<li><a rel="alternate" href="{{ .Lang | relURL }}" hreflang="{{ .Lang }}" lang="{{ .Lang }}">{{ .LanguageName }}</a></li>
+{{ end -}}
+{{ end -}}
+{{ end -}}
+</ul>
+</nav>
+-->
+</header>

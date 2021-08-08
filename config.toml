@@ -1,0 +1,39 @@
+baseURL = "https://rita-2020.github.io/"
+title = "Computing"
+theme = "sk2"
+publishDir = "public"
+DefaultContentLanguage = "ar"
+paginate = 6
+enableInlineShortcodes = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[permalinks]
+  post = "/:filename/"
+
+[params]
+  subtitle = " "
+  summary  = true
+  toc = false
+
+
+
+[menus]
+  [[menu.main]]
+    identifier = "tag"
+    name = "tags"
+    url = "/tags/"
+    weight = 5
+  [[menu.main]]
+    identifier = "category"
+    name = "categories"
+    url = "/categories/"
+    weight = 6
+ [[menu.main]]
+    identifier = "series"
+    name = "series"
+    url = "/series/"
+    weight = 7

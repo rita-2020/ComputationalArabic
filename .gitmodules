@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/rita-2020/rita-2020.github.io.git
+	branch = master
