@@ -2,7 +2,7 @@
 A GitHub repository which aims to collect any instance that builds, adds, and modifies the notion of "Computational Arabic" through collective open-source participation. While Computing has always held sociological and theoretical implications, Computational Arabic seeks to intersect all aspects of an Arab socio-cultural landscape. 
 
 To contribute to the repo, message me for a collaborators invitation.
-### you will to have [hugo installed](https://gohugo.io/getting-started/installing/)
+#### you will need to have [hugo installed](https://gohugo.io/getting-started/installing/)
 
 Then ; 
 
