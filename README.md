@@ -9,7 +9,7 @@ Then ;
     git clone --recursive https://github.com/rita-2020/ComputationalArabic.git 
     #make sure to add --recursive, to include the submodules.
 
-You might need to manually copy-paste my modified version of the hugo sk2 theme. __if__ 
+You might need to manually copy-paste my modified version of the hugo sk2 theme. __If__ 
 _ComputationalArabic > themes > sk2_ is cloned as an empty folder. Download the single "themes" file on this repository and replace the empty sk2 folder.
 
 https://github.com/rita-2020/ComputationalArabic/tree/main/themes/sk2 
