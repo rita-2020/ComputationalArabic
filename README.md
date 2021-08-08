@@ -6,7 +6,7 @@ To contribute to the repo, message me for a collaborators invitation.
 
 Then ; 
 
-git clone --recursive https://github.com/rita-2020/ComputationalArabic.git 
+    git clone --recursive https://github.com/rita-2020/ComputationalArabic.git 
 
 Then you must manually copy-paste my modified version of the hugo sk2 theme. 
 ComputationalArabic > themes > sk2 is cloned as an empty folder, so go back to the "themes" file on this repository and download to replace. 
