@@ -7,8 +7,10 @@ To contribute to the repo, message me for a Collaborators Invite.
 
 Then ; 
 
+``` ruby
     git clone --recursive https://github.com/rita-2020/ComputationalArabic.git 
     #make sure to add --recursive, to include the submodules.
+```
 
 You might need to manually copy-paste this modified version of the hugo sk2 theme. __If__ 
 _ComputationalArabic > themes > sk2_ is cloned as an empty folder. Download the single "themes" file on this repository and replace the empty sk2 folder.
@@ -25,7 +27,7 @@ Add to the Shadow Library by Digitising any text (book,pamphlets,etc.) into **se
 * [Install Tesseract.](https://rita-2020.github.io/posts/ocr_tutorial/)
 * Open Terminal, or Command Line and type (with _imageName_ and _imageOutput_ as your own file path)
 
-```
+``` ruby
     tesseract imageName imageOutput -l ara pdf
 ```
 
