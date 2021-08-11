@@ -20,8 +20,13 @@ https://github.com/rita-2020/ComputationalArabic/tree/main/themes/sk2
 #### OCR - _Optimal Character Recognition_ for Arabic Texts 
 Add to the Shadow Library by Digitising any text (book,pamphlets,etc.) into **searchable** pdfs. Follow this simple [guide](https://rita-2020.github.io/posts/ocr_tutorial/) on how to install the _Tesseract_ software. **NO CODING NEEDED**, probably just some debugging which can be sorted together. 
 
+* Scan page(s), basic home scanners work.
+* [Install Tesseract.](https://rita-2020.github.io/posts/ocr_tutorial/)
+* Open Terminal, or Command Line
+    tesseract _image name_ _image output_ -l ara pdf
 
-
+   
+     
 
 
 
