@@ -24,11 +24,13 @@ Add to the Shadow Library by Digitising any text (book,pamphlets,etc.) into **se
 * Scan page(s), basic home scanners work.
 * [Install Tesseract.](https://rita-2020.github.io/posts/ocr_tutorial/)
 * Open Terminal, or Command Line and type (with _imageName_ and _imageOutput_ as your own file path)
-* Fini! 
 
 ```
     tesseract imageName imageOutput -l ara pdf
 ```
+
+* Fini! 
+
 ## How to publish digitised file to the [Shadow Library](https://rita-2020.github.io/categories/shadow-library/)
 
 * Copy Paste pdf file to _ComputationalArabic > static > pdfs_ 
