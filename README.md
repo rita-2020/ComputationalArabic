@@ -1,4 +1,5 @@
 # Computational Arabic
+![IMG_1642](https://user-images.githubusercontent.com/69199435/129028917-59c25f11-4374-4c0d-bf21-ef2e200689aa.jpeg)
 A GitHub repository which aims to collect any instance that builds, adds, and modifies the notion of "Computational Arabic" through collective open-source participation. While Computing has always held sociological and theoretical implications, Computational Arabic seeks to intersect all aspects of an Arab socio-cultural landscape. 
 
 To contribute to the repo, message me for a Collaborators Invite.
