@@ -15,9 +15,9 @@ _ComputationalArabic > themes > sk2_ is cloned as an empty folder. Download the 
 https://github.com/rita-2020/ComputationalArabic/tree/main/themes/sk2 
 
 
-## Tools for Contribution: 
+# Tools for Contribution: 
 
-#### OCR - _Optimal Character Recognition_ for Arabic Texts 
+## OCR - _Optimal Character Recognition_ for Arabic Texts 
 Add to the Shadow Library by Digitising any text (book,pamphlets,etc.) into **searchable** pdfs. Follow this simple [guide](https://rita-2020.github.io/posts/ocr_tutorial/) on how to install the _Tesseract_ software. **NO CODING NEEDED**, probably just some debugging which can be sorted together. 
 
 * Scan page(s), basic home scanners work.
@@ -27,7 +27,7 @@ Add to the Shadow Library by Digitising any text (book,pamphlets,etc.) into **se
 ```
     tesseract imageName imageOutput -l ara pdf
 ```
-#### How to publish digitised file to the [Shadow Library](https://rita-2020.github.io/categories/shadow-library/)
+## How to publish digitised file to the [Shadow Library](https://rita-2020.github.io/categories/shadow-library/)
 
 *Copy Paste pdf file to _ComputationalArabic > static > pdfs_ 
 ```ruby
@@ -36,6 +36,7 @@ Add to the Shadow Library by Digitising any text (book,pamphlets,etc.) into **se
    $ vi content/posts/bookname.md
    $ i #this key allows u to edit the post. 
      ---
+#Copy Paste this structure, and adjust to your book name.      
 title: "الى الفقر"
 date: 2021-02-16T16:50:44+02:00
 draft: false
@@ -47,8 +48,16 @@ url: "../../pdfs/towardPoverty.pdf"
 <br>
 
 ***[Open PDF](../../pdfs/towardPoverty.pdf)***
-```
 
+   $ esc #Enter this key to end editing the post.
+   $ :wq #Enter these keys to Save and exit the post.
+   $ hugo -D #to process your post
+   $ git add . 
+   $ git commit -a -m "add new scan" 
+   $ git push
+   $ ./deploy.sh "add new scan" #To publish to the online repository
+```
+    
 
 
 
