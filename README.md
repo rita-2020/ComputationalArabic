@@ -18,7 +18,9 @@ https://github.com/rita-2020/ComputationalArabic/tree/main/themes/sk2
 ## Tools for Contribution: 
 
 #### OCR - _Optimal Character Recognition_ for Arabic Texts 
-Add to the Shadow Library by Digitising any text (book,pamphlets,etc.) into **searchable** pdfs. Follow this simple [guide](https://rita-2020.github.io/posts/ocr_tutorial/) on how to install the _Tesseract_ software. 
+Add to the Shadow Library by Digitising any text (book,pamphlets,etc.) into **searchable** pdfs. Follow this simple [guide](https://rita-2020.github.io/posts/ocr_tutorial/) on how to install the _Tesseract_ software. **No Coding knowledge needed**, probably just some debugging which can be sorted together. 
+
+
 
 
 
