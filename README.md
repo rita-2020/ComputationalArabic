@@ -27,15 +27,14 @@ Add to the Shadow Library by Digitising any text (book,pamphlets,etc.) into **se
 ```
     tesseract imageName imageOutput -l ara pdf
 ```
-* Upload to ComputationalArabic repository
-    *Copy Paste pdf file to _ComputationalArabic > static > pdfs_ 
-```
+#### How to publish digitised file to the [Shadow Library](https://rita-2020.github.io/categories/shadow-library/)
+
+*Copy Paste pdf file to _ComputationalArabic > static > pdfs_ 
+```ruby
    $ cd ComputaionalArabic
    $ hugo new posts/bookname.md
    $ vi content/posts/bookname.md
    $ i #this key allows u to edit the post. 
-```
-```ruby
      ---
 title: "الى الفقر"
 date: 2021-02-16T16:50:44+02:00
@@ -44,7 +43,7 @@ tags: ["المجتمع"]
 categories: ["shadow library", "computational arabic"]
 image: "../../img/bookcover2.png"
 url: "../../pdfs/towardPoverty.pdf"
----
+    ---
 <br>
 
 ***[Open PDF](../../pdfs/towardPoverty.pdf)***
