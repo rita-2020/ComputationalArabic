@@ -1,6 +1,6 @@
 ---
 title: "Waiting Out the Crisis"
-date: 2021-10-08T17:39:10+02:00
+date: 2021-10-08T18:51:24+02:00
 draft: false
 tags: ["المجتمع"]
 categories: ["shadow library"]
@@ -10,3 +10,4 @@ url: "../../pdfs/WaitingHage.pdf"
 <br>
 
 ***[Open PDF](../../pdfs/WaitingHage.pdf)***
+
