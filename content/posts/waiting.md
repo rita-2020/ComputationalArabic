@@ -5,7 +5,7 @@ draft: false
 tags: ["المجتمع"]
 categories: ["shadow library"]
 image: "../../img/waitingbook.png"
-url: "../../pdfs/towardPoverty.pdf"
+url: "../../pdfs/WaitingHage.pdf"
 ---
 <br>
 
