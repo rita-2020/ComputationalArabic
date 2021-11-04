@@ -65,7 +65,7 @@ url: "../../pdfs/towardPoverty.pdf"
    $ git push
    $ ./deploy.sh "add new scan" #To publish to the online repository
 ```
-    
+    hi !
 
 
 
