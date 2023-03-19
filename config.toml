@@ -10,11 +10,7 @@ enableInlineShortcodes = true
   tag = "tags"
   category = "categories"
   series = "series"
-<<<<<<< HEAD
 
-=======
-  series = "series"
->>>>>>> cde91167bc0ca15b327a8d54f8eb7249e9d741a9
 
 [permalinks]
   post = "/:filename/"
