@@ -3,7 +3,7 @@ title = "Computing"
 theme = "sk2"
 publishDir = "public"
 DefaultContentLanguage = "ar"
-paginate = 6
+paginate = 14
 enableInlineShortcodes = true
 
 [taxonomies]

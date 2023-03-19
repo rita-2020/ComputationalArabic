@@ -6,28 +6,28 @@ aboutme: ["C.V."]
 image: "../../img/me.jpg"
 ---
 
-### Rita-Josy Haddoub (b.1996) is a new media artist and creative coder. Origionally from Beirut, Lebanon. Currently Based in Denmark. 
+### Rita-Josy Haddoub (b.1996) is a new media artist and creative coder.
+Originally from Beirut, Lebanon. Currently Based in Denmark. 
 {{< figure src="../../img/me.jpg" alt="personal photo"  width="260px" >}}
 
 
 ## Education 
 
-#### MA  Media Arts and Cultures 
+#### MA Media Arts and Cultures 
 
-* Eramus Mundus Full Scholarship
+* Erasmus+ Mundus Joint Masters Scholarship 
 * 2022 - 2024
 
 #### BSc Digital Arts Computing with First Class Honours
 
 * Goldsmiths, University of London
-* 2014 - 2020
+* 2017 - 2020
 
 
 ## Publications
 
-#### SciArt Performance Review
-
-* [*Friendred: Moving Photon Preview*][seisma]
+#### [*Friendred: Moving Photon Preview*][seisma]
+* Theatrical sci-art show review. Jan 4, 2022
 * Seimsa Magazine. 
 
 ## Exhibitions
@@ -36,6 +36,7 @@ image: "../../img/me.jpg"
 * Brussels, Belgium. March 8, 2022.
 
 #### <ins>*Aalborg Cement*</ins> as part of **Spktrm Art Cafe**
+* Abzalon Factory 
 * Aalborg, Denmark. March 4, 2023. 
 
 #### [*Beton Latent*][aol], **arebyte Gallery**
