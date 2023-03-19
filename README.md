@@ -1,10 +1,11 @@
 # Computational Arabic
 ![IMG_1642](https://user-images.githubusercontent.com/69199435/129028917-59c25f11-4374-4c0d-bf21-ef2e200689aa.jpeg)
-A GitHub repository which aims to collect any instance that builds, adds, and modifies the notion of "Computational Arabic" through collective open-source participation. While Computing has always held sociological and theoretical implications, Computational Arabic seeks to intersect all aspects of an Arab socio-cultural landscape. 
+A GitHub repository which aims to collect any instance that builds, adds, and modifies the notion of "Computational Arabic".  While the field of Computational Science has always held sociological and theoretical implications, Computational Arabic seeks to intersect aspects of the Arab socio-cultural landscape in order to build and understand such a notion in more relatable ways. Rather than a ‘digital collection’, Computational Arabic is referred to as a guide because it lays out all the tools for contributing to and contesting its representation. It currently includes a shadow library of scanned books, some tutorials and terminology for Arabic language programming, some sketches/drawings, and commentaries on numerical arts within the Lebanese society.
 
-Working site: [https://rita-2020.github.io/](https://rita-2020.github.io/)
 
-To contribute to the repo, message me for a Collaborators Invite.
+Generated Website: [https://rita-2020.github.io/](https://rita-2020.github.io/)
+
+To contribute to the repo, send a message for a Collaborators Invite.
 #### you will need to have [hugo installed](https://gohugo.io/getting-started/installing/)
 
 Then ; 
@@ -65,7 +66,7 @@ url: "../../pdfs/towardPoverty.pdf"
    $ git push
    $ ./deploy.sh "add new scan" #To publish to the online repository
 ```
-    
+    hi !
 
 
 
