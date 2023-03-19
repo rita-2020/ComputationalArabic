@@ -1,11 +1,14 @@
 ---
-title: "Cv"
+title: "C.V."
 date: 2023-03-19T17:10:10+01:00
 draft: false
-categories: ["aboutme"]
+aboutme: ["C.V."]
+image: "../../img/me.jpg"
 ---
 
 ### Rita-Josy Haddoub (b.1996) is a new media artist and creative coder. Origionally from Beirut, Lebanon. Currently Based in Denmark. 
+{{< figure src="../../img/me.jpg" alt="personal photo"  width="180px" >}}
+
 
 ## Education 
 
