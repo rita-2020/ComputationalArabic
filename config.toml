@@ -11,7 +11,6 @@ enableInlineShortcodes = true
   category = "categories"
   series = "series"
   series = "series"
-  about = "about"
 
 [permalinks]
   post = "/:filename/"
@@ -39,8 +38,3 @@ enableInlineShortcodes = true
     name = "series"
     url = "/series/"
     weight = 7
-  [[menu.main]]
-    identifier = "about"
-    name = "about"
-    url = "/about/"
-    weight = 8
