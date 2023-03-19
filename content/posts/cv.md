@@ -1,7 +1,8 @@
 ---
 title: "Cv"
 date: 2023-03-19T17:10:10+01:00
-draft: true
+draft: false
+categories: ["aboutme"]
 ---
 
 ### Rita-Josy Haddoub (b.1996) is a new media artist and creative coder. Origionally from Beirut, Lebanon. Currently Based in Denmark. 
@@ -23,32 +24,34 @@ draft: true
 
 #### SciArt Performance Review
 
-* "Friendred: Moving Photon Preview"
+* [*Friendred: Moving Photon Preview*][seisma]
 * Seimsa Magazine.
 * Link. 
 
 ## Exhibitions
 
-#### [*Computational Arabic*] an exhibition at **Constant vitrine**
+#### [*Computational Arabic*][constantv] an exhibition at **Constant vitrine**
 * Brussels, Belgium. March 8, 2022.
 
 #### *Aalborg Cement* as part of **Spktrm Art Cafe**
 * Aalborg, Denmark. March 4, 2023. 
 
-#### [*Beton Latent*], **arebyte Gallery**
+#### [*Beton Latent*][aol], **arebyte Gallery**
 * London(UK) online/AOS - arebyte on screen. October 10, 2020. 
-
-https://aos.arebyte.com/contents/remote-latency/  
-
+  
 
 ## Workshops 
 
-#### [*Coffee Reading as Medium*] held at **Lagrange Points Cafe**
+#### [*Coffee Reading as Medium*][lgp] held at **Lagrange Points Cafe**
 * Brussels, Belgium. March 30, 2022
 
-#### [*Introducing Computational Arabic repository*] at **FAB16 Conference**
-* Fab City Summit. Online. September 8, 2021. 
+#### [*Introducing Computational Arabic repository*][Fab] at **FAB16 Conference**
+* Fab City Summit. Online. August 9, 2021. 
  
-
+[seisma]:https://seismamag.com/theatre-dance/friendred 
+[constantv]:https://constantvzw.org/site/Constant_V-Computational-Arabic,3563.html
+[aol]:https://aos.arebyte.com/contents/remote-latency/ 
+[lgp]:https://fb.me/e/2kNu4RHcw 
+[Fab]:https://fab16.sched.com/event/litR/computational-arabic-engarabic 
 
  
