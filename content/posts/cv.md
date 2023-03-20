@@ -27,20 +27,20 @@ Originally from Beirut, Lebanon. Currently Based in Denmark.
 ## Publications
 
 #### [*Friendred: Moving Photon Preview*][seisma]
-* Theatrical sci-art show review. Jan 4, 2022
+* Theatrical sci-art review. Jan 4, 2022
 * Seimsa Magazine. 
 
 ## Exhibitions
 
 #### [*Computational Arabic*][constantv] an exhibition at **Constant vitrine**
-* Brussels, Belgium. March 8, 2022.
+* Brussels(BE). March 8, 2022.
 
 #### <ins>*Aalborg Cement*</ins> as part of **Spktrm Art Cafe**
 * Abzalon Factory 
-* Aalborg, Denmark. March 4, 2023. 
+* Aalborg(DK). March 4, 2023. 
 
 #### [*Beton Latent*][aol], **arebyte Gallery**
-* London(UK) online/AOS - arebyte on screen. October 10, 2020. 
+* London(UK). online/AOS - arebyte on screen. October 10, 2020. 
   
 
 ## Workshops 
