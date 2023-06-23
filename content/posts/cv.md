@@ -13,10 +13,6 @@ Originally from Beirut, Lebanon. Currently Based in Denmark.
 
 ## Education 
 
-#### MA Media Arts and Cultures 
-
-* Erasmus+ Mundus Joint Masters Scholarship 
-* 2022 - 2024
 
 #### BSc Digital Arts Computing with First Class Honours
 
@@ -31,6 +27,10 @@ Originally from Beirut, Lebanon. Currently Based in Denmark.
 * Seimsa Magazine. 
 
 ## Exhibitions
+
+### <ins>*Beyond Us*</ins>Open Studio Visitng Days
+* Fondation Boghossian.
+* Brussels(BE). June 29-30, 2023.
 
 #### [*Computational Arabic*][constantv] an exhibition at **Constant vitrine**
 * Brussels(BE). March 8, 2022.
