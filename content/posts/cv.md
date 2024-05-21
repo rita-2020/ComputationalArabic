@@ -7,15 +7,16 @@ image: "../../img/me.jpg"
 ---
 
 ### Rita-Josy Haddoub (b.1996) is a new media artist and creative coder.
-Originally from Beirut, Lebanon. Currently Based in Denmark. 
+Originally from Beirut, Lebanon.
+
 {{< figure src="../../img/me.jpg" alt="personal photo"  width="260px" >}}
 
 
 ## Education 
 
-#### MA Media Arts and Cultures 
+#### Joint Master Media Arts and Cultures 
 
-* Erasmus+ Mundus Joint Masters Scholarship 
+* Erasmus+ Mundus Scholarship 
 * 2022 - 2024
 
 #### BSc Digital Arts Computing with First Class Honours
@@ -31,6 +32,9 @@ Originally from Beirut, Lebanon. Currently Based in Denmark.
 * Seimsa Magazine. 
 
 ## Exhibitions
+
+#### [*Beton Mystique*][recyclartU] festival intervention at **Recyclart**
+* Brussels(BE). July 21 & 27 2023.
 
 #### [*Computational Arabic*][constantv] an exhibition at **Constant vitrine**
 * Brussels(BE). March 8, 2022.
@@ -56,5 +60,5 @@ Originally from Beirut, Lebanon. Currently Based in Denmark.
 [aol]:https://aos.arebyte.com/contents/remote-latency/ 
 [lgp]:https://fb.me/e/2kNu4RHcw 
 [Fab]:https://fab16.sched.com/event/litR/computational-arabic-engarabic 
-
+[recyclartU]:https://recyclart.be/fr/agenda/echo-zines-friends-emmanuel-le-fontaine-rita-haddoub-ajna-fogo-uncounted-galaxies-divina-pizza-fix-my-holidays
  
