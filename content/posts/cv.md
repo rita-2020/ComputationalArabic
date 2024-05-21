@@ -8,24 +8,17 @@ image: "../../img/me.jpg"
 
 <<<<<<< HEAD
 ### Rita-Josy Haddoub (b.1996) is a new media artist and creative coder.
-Originally from Beirut, Lebanon.
 
 =======
-### Rita-Josy Haddoub (b.1996) is a multimedia artist and creative coder.
-Originally from Beirut, Lebanon. 
->>>>>>> a6522d1d078361c7b74bf5b13a727ff1f86dbb2b
 {{< figure src="../../img/me.jpg" alt="personal photo"  width="260px" >}}
 
 
 ## Education 
 
-<<<<<<< HEAD
 #### Joint Master Media Arts and Cultures 
 
 * Erasmus+ Mundus Scholarship 
 * 2022 - 2024
-=======
->>>>>>> a6522d1d078361c7b74bf5b13a727ff1f86dbb2b
 
 #### BSc Digital Arts Computing with First Class Honours
 
@@ -41,14 +34,12 @@ Originally from Beirut, Lebanon.
 
 ## Exhibitions
 
-<<<<<<< HEAD
 #### [*Beton Mystique*][recyclartU] festival intervention at **Recyclart**
 * Brussels(BE). July 21 & 27 2023.
-=======
-### <ins>*Beyond Us*</ins>Open Studio Visitng Days
+
+#### <ins>*Beyond Us*</ins>Open Studio Visitng Days
 * Fondation Boghossian.
 * Brussels(BE). June 29-30, 2023.
->>>>>>> a6522d1d078361c7b74bf5b13a727ff1f86dbb2b
 
 #### [*Computational Arabic*][constantv] an exhibition at **Constant vitrine**
 * Brussels(BE). March 8, 2022.
