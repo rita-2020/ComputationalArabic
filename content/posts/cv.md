@@ -8,7 +8,6 @@ image: "../../img/me.jpg"
 
 ### Rita-Josy Haddoub (b.1996) is a new media artist and creative coder.
 
-=======
 {{< figure src="../../img/me.jpg" alt="personal photo"  width="260px" >}}
 
 
