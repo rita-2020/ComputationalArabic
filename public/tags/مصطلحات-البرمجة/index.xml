@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>مصطلحات البرمجة on Computing</title>
+    <link>https://rita-2020.github.io/tags/%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9/</link>
+    <description>Recent content in مصطلحات البرمجة on Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 08 Mar 2021 18:07:18 +0200</lastBuildDate><atom:link href="https://rita-2020.github.io/tags/%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>عصر الإستنساخ</title>
+      <link>https://rita-2020.github.io/pdfs/cloningera.pdf</link>
+      <pubDate>Mon, 08 Mar 2021 18:07:18 +0200</pubDate>
+      
+      <guid>https://rita-2020.github.io/pdfs/cloningera.pdf</guid>
+      <description>Open PDF</description>
+    </item>
+    
+    <item>
+      <title>الفن الرقمنة</title>
+      <link>https://rita-2020.github.io/posts/art_numerique/</link>
+      <pubDate>Mon, 21 Dec 2020 21:08:00 +0200</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/art_numerique/</guid>
+      <description>مقابلة مع فنان رقمي لبناني Tele Liban interview
+: فنانين رقميين  Ricardo Mbarkho &amp;ldquo;عم بشتغل و عم واكب تقنيات العصر يلي عم تنتشر بين اِدينا كلنا&amp;rdquo;  موقع الكتروني www.ricardombarkho.com monoskope    </description>
+    </item>
+    
+    <item>
+      <title>مورد المكاتب الرقميّة</title>
+      <link>https://rita-2020.github.io/posts/digital_libraries/</link>
+      <pubDate>Sun, 20 Dec 2020 16:06:52 +0200</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/digital_libraries/</guid>
+      <description>  المجموعات العربية على الانترنت ACO   AUB Libraries Digital Collection   Memory of the World
+  </description>
+    </item>
+    
+    <item>
+      <title>العالم الإفتراضي</title>
+      <link>https://rita-2020.github.io/posts/newspaper/</link>
+      <pubDate>Fri, 11 Dec 2020 20:45:56 +0200</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/newspaper/</guid>
+      <description>العالم من بعد&amp;hellip; العالم من بعيد، غسان حجار &amp;ldquo;لكننا في الوقت نفسه، نبحث عن إنسانيتنا في هذا العالم الافتراضي ، الذي يقودنا إلى التوحد، و عدم التفاعل&amp;rdquo;
+Ghassan Hajjar, 2020 </description>
+    </item>
+    
+    <item>
+      <title>رقمنة الكتب</title>
+      <link>https://rita-2020.github.io/posts/digiitsemanually/</link>
+      <pubDate>Thu, 12 Nov 2020 16:02:05 +0100</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/digiitsemanually/</guid>
+      <description>Manually, or using OCR tesseract   </description>
+    </item>
+    
+    <item>
+      <title>خلية مستقلة</title>
+      <link>https://rita-2020.github.io/posts/automaton/</link>
+      <pubDate>Sun, 08 Nov 2020 15:37:10 +0100</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/automaton/</guid>
+      <description>تعريف cellular automata, Nature of Code</description>
+    </item>
+    
+    <item>
+      <title>الفضاء الكامن</title>
+      <link>https://rita-2020.github.io/posts/latentspace/</link>
+      <pubDate>Mon, 02 Nov 2020 15:30:52 +0100</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/latentspace/</guid>
+      <description>GAN to Concrete Project</description>
+    </item>
+    
+    <item>
+      <title>الكتابة بلوحة المفاتيح</title>
+      <link>https://rita-2020.github.io/posts/klavaro/</link>
+      <pubDate>Sun, 01 Nov 2020 21:57:41 +0100</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/klavaro/</guid>
+      <description>Terminal: $brew install klavaro تمرين الأساسيات
+المصدر</description>
+    </item>
+    
+    <item>
+      <title>دائرة كهربائية</title>
+      <link>https://rita-2020.github.io/posts/tech_mural/</link>
+      <pubDate>Tue, 27 Oct 2020 11:22:44 +0100</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/tech_mural/</guid>
+      <description>&amp;ldquo;Connected&amp;rdquo; by Jorge Rodriguez-Gerada
+  </description>
+    </item>
+    
+  </channel>
+</rss>

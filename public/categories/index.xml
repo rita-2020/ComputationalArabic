@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Computing</title>
+    <link>https://rita-2020.github.io/categories/</link>
+    <description>Recent content in Categories on Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 08 Oct 2021 18:51:24 +0200</lastBuildDate><atom:link href="https://rita-2020.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>shadow library</title>
+      <link>https://rita-2020.github.io/categories/shadow-library/</link>
+      <pubDate>Fri, 08 Oct 2021 18:51:24 +0200</pubDate>
+      
+      <guid>https://rita-2020.github.io/categories/shadow-library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computational arabic</title>
+      <link>https://rita-2020.github.io/categories/computational-arabic/</link>
+      <pubDate>Mon, 08 Mar 2021 18:07:18 +0200</pubDate>
+      
+      <guid>https://rita-2020.github.io/categories/computational-arabic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drawings</title>
+      <link>https://rita-2020.github.io/categories/drawings/</link>
+      <pubDate>Wed, 24 Feb 2021 23:43:57 +0200</pubDate>
+      
+      <guid>https://rita-2020.github.io/categories/drawings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

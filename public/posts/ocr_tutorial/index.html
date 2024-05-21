@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html><head>
+	
+	<meta charset="utf-8">
+	
+	<link rel="stylesheet" href="/css/sk2.css">
+    
+
+    
+    
+</head><body><header class="flex">
+
+<a href="/"><b>Computing</b></a>
+
+
+<div class="subtitle"> </div>
+    
+    
+
+
+<nav class="flex-right">
+	
+	
+		
+		<li>
+			<a href="/tags/">
+				
+				<span>tags</span>
+			</a>
+		</li>
+		
+	
+		
+		<li>
+			<a href="/categories/">
+				
+				<span>categories</span>
+			</a>
+		</li>
+		
+	
+		
+		<li>
+			<a href="/series/">
+				
+				<span>series</span>
+			</a>
+		</li>
+		
+	
+		
+		<li>
+			<a href="/aboutme/">
+				
+				<span>aboutme</span>
+			</a>
+		</li>
+		
+	
+</nav>
+
+  
+
+
+
+</header><div id="content">
+<div class="main">
+
+	
+	
+	<heading>
+		<h1>guide for Arabic OCR</h1>
+	</heading>
+	
+
+	
+	
+   
+
+	
+	<content><h3 id="using-tesseract-optical-character-recognition-for-arabic-print-scans">Using Tesseract &lsquo;Optical Character Recognition&rsquo; for Arabic print scans.</h3>
+<blockquote>
+<h4 id="installing-tesseract">Installing Tesseract</h4>
+<ul>
+<li>
+<p>Follow the <a href="https://tesseract-ocr.github.io/tessdoc/Compiling.html">instructions in tesseracts documentation</a> to install required tools for a version &gt;=4 (for mac I used HomeBrew,&amp; then <code>git clone tesseract</code> ).</p>
+</li>
+<li>
+<p>To check if installation was succesfull, type in terminal <code>tesseract man</code> to prompt the manual.</p>
+</li>
+<li>
+<p>Read <a href="https://tesseract-ocr.github.io/tessdoc/Compiling-%E2%80%93-GitInstallation.html#post-install-instructions">Post-Installation Instructions</a> which concerns adding needed languages.</p>
+</li>
+<li>
+<p>Download the ara.traineddata file from the <a href="https://github.com/tesseract-ocr/tessdata_best">tessdata_best</a> repository (which is trained at Google!), and any other need languages. Make sure to also download the osd.traineddata file, used for Orientation Script Detection.</p>
+</li>
+<li>
+<p>Place the downloaded .traineddata files in the default location <code>/usr/local/share/tessdata</code> for linux &amp; OS X.</p>
+</li>
+<li>
+<p>In Terminal type <code>tesseract --list -langs</code>, and you should the list of languages you downloaded.</p>
+</li>
+<li>
+<p>Finally, follow the <a href="https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html#simplest-invocation-to-ocr-an-image">Command Line Usage</a> samples. :)</p>
+</li>
+<li>
+<p>for multiple pages, such as a scanned book, best results work with a multitiff file, command promted normally. Otherwise, you may call multiple pages in return of seperate files: <code>for i in *.tif ; do tesseract $i outtext$i -l ar pdf;  done;</code> (for mac Terminal)</p>
+</li>
+</ul>
+</blockquote>
+<figure>
+    <img src="../../img/lookabletext.jpeg"
+         alt="Reportage on Bala Toul Sire, Future TV" width="400px"/> 
+</figure></content>
+
+	
+	<div>Update: 2021-01-06</div>
+
+	
+	<div class="flex">
+		<div class="pad-r-5px">Tags:</div>
+		
+	</div>
+
+	
+	
+	<div class="flex">
+		<a href="/posts/art_numerique/">
+			&lt;&lt; الفن الرقمنة</a> 
+				<a class="flex-right" href="/pdfs/computer_guide.pdf">المرشد في الكمبيوتر >></a>
+	</div>
+	
+
+	
+	
+	
+
+    
+</div>
+
+
+	</div><footer class="flex">
+
+	
+		<div class="pad-r-5px">
+		©
+		2024 Computing
+		</div>
+	
+	<div class="pad-r-5px">Power by <a href="https://gohugo.io">Hugo</a></div>
+	<div>Theme <a href="https://github.com/J-Siu/hugo-theme-sk2/">SK2</a> by <a href="https://github.com/J-Siu/">J-Siu</a></div>
+
+</footer>
+
+
+
+<script src="/js/sk2.js"></script>
+</body>
+
+
+</html>
