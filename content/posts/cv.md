@@ -6,7 +6,6 @@ aboutme: ["C.V."]
 image: "../../img/me.jpg"
 ---
 
-<<<<<<< HEAD
 ### Rita-Josy Haddoub (b.1996) is a new media artist and creative coder.
 
 =======
